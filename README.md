@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;Building+Real-World+AI+Products;Python+%7C+Flask+%7C+Gemini+AI;EdTech+%26+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Python+Developer;AI+%26+Data+Science+Enthusiast;Building+Real-World+AI+Applications;Python+%7C+Flask+%7C+Gemini+AI;EdTech+%26+Automation+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  🚀 Turning ideas into intelligent, scalable applications  
+  🚀 Turning data and ideas into intelligent AI-powered solutions  
 </p>
 
 <p align="center">
@@ -16,10 +16,12 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Student | AI & Full-Stack Development  
-- 🧠 Passionate about **AI-driven real-world solutions**
-- ⚙️ Focused on **backend systems, AI integration & clean UI**
-- 🤝 Experienced in **team-based project collaboration**
+- 🎓 B.Tech Student | **Python, AI & Data Science**
+- 🐍 Core **Python Developer**
+- 🧠 Passionate about **AI-driven & data-based real-world solutions**
+- 📊 Strong interest in **Data Analysis, AI Models & Automation**
+- ⚙️ Experience with **AI integration & backend logic**
+- 🤝 Worked on **team-based academic & personal projects**
 - 🧩 I enjoy debugging more than writing code 😄  
 - 💡 *Learning by building, improving by failing*
 
@@ -27,20 +29,28 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 </p>
 
-### 🔧 Backend & AI
+### 🧠 AI & Data Science
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge"/>
+</p>
+
+### 🤖 AI & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=flask,python" />
   <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
-### 🎨 Frontend
+### 🎨 Basic Frontend (for UI Integration)
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### 🧰 Tools & Concepts
@@ -58,6 +68,7 @@
 - ⚡ Quick revision points  
 - 🧠 AI-predicted doubt/confusion areas  
 - ❓ Exam-oriented questions & MCQs  
+- 📊 Concept-wise breakdown for better understanding  
 
 **Tech:** Python, Flask, Google Gemini AI, JavaScript  
 
@@ -76,9 +87,9 @@
 ## 👥 Team Experience
 
 - 👨‍👨‍👦 Worked in **2-member collaborative teams**
-- 🔹 Clear role ownership (AI/Backend & Frontend)
-- 🔹 Experience in **planning → building → integration**
-- 🔹 Real-world development workflow exposure
+- 🔹 Clear role ownership (**Python, AI & Backend logic**)
+- 🔹 Experience in **planning → development → testing**
+- 🔹 Exposure to real-world problem solving & debugging
 
 ---
 
@@ -93,9 +104,9 @@
 
 ## 🤝 Connect With Me
 
-- 💼  *[Add your LinkedIn link :](https://www.linkedin.com/in/akash-kumar-5b7a74324/)*
+- 💼 LinkedIn: https://www.linkedin.com/in/akash-kumar-5b7a74324/
 - 🌐 Portfolio: *Coming Soon*
-- 📧 Email: *akashkumar223570@gmail.com*
+- 📧 Email: **akashkumar223570@gmail.com**
 
 ---
 
