@@ -27,38 +27,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
-</p>
-
-### 🧠 AI & Data Science
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge"/>
-</p>
-
-### 🤖 AI & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,python" />
-  <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-
-### 🎨 Basic Frontend (for UI Integration)
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### 🧰 Tools & Concepts
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
----
 
 ## 🧠 Featured Projects
 
