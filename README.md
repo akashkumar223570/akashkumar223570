@@ -7,11 +7,7 @@
 <p align="center">
   🚀 Turning data and ideas into intelligent AI-powered solutions  
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
+ 
 ---
 
 ## 🚀 About Me
